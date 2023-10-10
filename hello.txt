@@ -4,3 +4,4 @@ area
 triangle rectangle
 vimal
 hello world
+perimter of circel
